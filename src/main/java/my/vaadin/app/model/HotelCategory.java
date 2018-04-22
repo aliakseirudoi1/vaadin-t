@@ -1,4 +1,4 @@
-package my.vaadin.app;
+package my.vaadin.app.model;
 
 public enum HotelCategory {
     Hotel, BusinessHotel, Apartments, Restaurant
